@@ -7,3 +7,6 @@ npm install
 
 # run app
 expo start
+
+# video demo
+video_chay_thu_app_calculator.mp4
